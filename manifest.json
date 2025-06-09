@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "test mod-ai_images",
     "description": "my first opera mod",
     "version": "1.0",
