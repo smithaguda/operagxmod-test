@@ -23,14 +23,14 @@
                     "image": "wallpaper.webm",
                     "text_color": "#ffffff",
                     "text_shadow": "#ffffff",
-                    "first_frame": "wallpaper.jpg"
+                    "first_frame": "wallpaper.jpeg"
                 },
                 "light":
                 {
                     "image": "wallpaper.webm",
                     "text_color": "#ffffff",
                     "text_shadow": "#00ff00",
-                    "first_frame": "wallpaper.jpg"
+                    "first_frame": "wallpaper.jpeg"
                 }
             },            "background_music":
             [
