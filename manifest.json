@@ -1,0 +1,29 @@
+{
+    "manifest_version": 1,
+    "name": "test mod-ai_images",
+    "description": "my first opera mod",
+    "version": "1.0",
+    "icons":
+    {
+        "69": "icon_69.png"
+    },
+    "developer":
+    {
+        "name": "smithag"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "music/Boss_Theme_-_layer-001.mp3",
+                "music/Boss_Theme_-_layer-002.mp3",
+                "music/Boss_Theme_-_layer-003.mp3",
+                "music/Boss_Theme_-_layer-004.mp3",
+                "music/Boss_Theme_-_layer-005.mp3"
+            ]
+        }
+    }
+}
