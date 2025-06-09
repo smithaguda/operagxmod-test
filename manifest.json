@@ -16,7 +16,23 @@
         "schema_version": 1,
         "payload":
         {
-            "background_music":
+            "wallpaper":
+            {
+                "dark":
+                {
+                    "image": "wallpaper.webm",
+                    "text_color": "#ffffff",
+                    "text_shadow": "#ffffff",
+                    "first_frame": "wallpaper.jpg"
+                },
+                "light":
+                {
+                    "image": "wallpaper.webm",
+                    "text_color": "#ffffff",
+                    "text_shadow": "#00ff00",
+                    "first_frame": "wallpaper.jpg"
+                }
+            },            "background_music":
             [
                 "Armenia.mp3"
             ]
